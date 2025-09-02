@@ -7,7 +7,7 @@ Maybe fill this out?
 * The best operating system is ______
 * The best text editor is ______
 * The best kind of phone is _______
-* The best superhero is This probably conflicts right?
+* The best superhero is ___________
 
 
 
@@ -23,3 +23,4 @@ Additional info that doesn't conflict but also this extra info.
 
 
 hello world!
+Foo 5 was added!
